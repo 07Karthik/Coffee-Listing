@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from 'react'
 import "./Item.css"
-import star_fill from "../../assets/star_fill.svg"
-import star from "../../assets/star.svg"
+import star_fill from "../../assets/Star_fill.svg"
+import star from "../../assets/Star.svg"
 
 const Item = ({name, image, price, rating, votes, avaliable, popular}) => {
   

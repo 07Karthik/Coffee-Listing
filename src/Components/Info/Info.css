@@ -1,0 +1,30 @@
+.info{
+    text-align: center;
+}
+.info h2{
+    font-size: 32px;
+    color: #FEF7EE;
+    margin-bottom: 5px;
+    
+}
+.info p{
+    font-size: 16px;
+    color: #6F757C;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.info .buttons > button:nth-child(1){
+    margin-right: 15px;
+    background-color: #6F757C;
+}
+.info .buttons button{
+    cursor: pointer;
+    border: none;
+    outline: none;
+    background-color: #1B1D1F;
+    color: #FEF7EE;
+    padding: 10px 15px;
+    border-radius: 8px;
+    font-size: 14px;
+}
